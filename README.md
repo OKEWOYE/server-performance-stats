@@ -27,3 +27,5 @@ Bash, Linux, awk, Git
 
 ## Environment
 Ubuntu 24.04.3 LTS on WSL2.
+
+https://roadmap.sh/projects/server-stats
